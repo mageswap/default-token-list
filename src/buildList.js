@@ -11,7 +11,7 @@ const celo = require("./tokens/celo.json");
 const arbitrum = require("./tokens/arbitrum.json");
 const bnb = require("./tokens/bnb.json");
 
-const bridgeUtils = require('@uniswap/token-list-bridge-utils');
+const bridgeUtils = require('@mageswap/token-list-bridge-utils');
 
 module.exports = function buildList() {
   const parsed = version.split(".");
