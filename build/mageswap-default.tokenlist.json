@@ -1,10 +1,10 @@
 {
-  "name": "Uniswap Labs Default",
-  "timestamp": "2023-05-01T01:59:50.541Z",
+  "name": "Mageswap Default",
+  "timestamp": "2023-05-17T05:23:21.701Z",
   "version": {
     "major": 9,
-    "minor": 4,
-    "patch": 0
+    "minor": 5,
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -2583,6 +2583,21 @@
     },
     {
       "chainId": 1,
+      "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+      "extensions": {
+        "bridgeInfo": {
+          "42161": {
+            "tokenAddress": "0x35E6A59F786d9266c7961eA28c7b768B33959cbB"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
       "name": "Perpetual Protocol",
       "symbol": "PERP",
@@ -2706,6 +2721,21 @@
           },
           "42161": {
             "tokenAddress": "0x4e91F2AF1ee0F84B529478f19794F5AFD423e4A6"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
+      "name": "Prime",
+      "symbol": "PRIME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
+      "extensions": {
+        "bridgeInfo": {
+          "42161": {
+            "tokenAddress": "0x8d8e1b6ffc6832E8D2eF0DE8a3d957cAE7ac5067"
           }
         }
       }
@@ -9115,6 +9145,21 @@
     },
     {
       "chainId": 42161,
+      "address": "0x35E6A59F786d9266c7961eA28c7b768B33959cbB",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6982508145454Ce325dDbE47a25d4ec3d2311933"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0x753D224bCf9AAFaCD81558c32341416df61D3DAC",
       "name": "Perpetual Protocol",
       "symbol": "PERP",
@@ -9184,6 +9229,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x8d8e1b6ffc6832E8D2eF0DE8a3d957cAE7ac5067",
+      "name": "Prime",
+      "symbol": "PRIME",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF"
           }
         }
       }

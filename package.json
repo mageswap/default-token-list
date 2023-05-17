@@ -2,14 +2,14 @@
   "name": "@mageswap/default-token-list",
   "version": "9.5.1",
   "description": "The Mageswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "main": "build/mageswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/mageswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/mageswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",

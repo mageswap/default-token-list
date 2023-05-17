@@ -16,7 +16,7 @@ const bridgeUtils = require('@mageswap/token-list-bridge-utils');
 module.exports = function buildList() {
   const parsed = version.split(".");
   const l1List = {
-    name: "Uniswap Labs Default",
+    name: "Mageswap Default",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
