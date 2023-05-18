@@ -1,6 +1,6 @@
 {
   "name": "Mageswap Default",
-  "timestamp": "2023-05-17T05:23:21.701Z",
+  "timestamp": "2023-05-18T07:47:59.869Z",
   "version": {
     "major": 9,
     "minor": 5,
@@ -7927,6 +7927,78 @@
           }
         }
       }
+    },
+    {
+      "name": "BOO",
+      "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+      "symbol": "BOO",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/spookyswap-boo_32.png"
+    },
+    {
+      "name": "CHILL",
+      "address": "0xe47d957F83F8887063150AaF7187411351643392",
+      "symbol": "CHILL",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/chillpill_32.png"
+    },
+    {
+      "name": "CULT",
+      "address": "0x4Ed9C2aba77141433c462B8EE835B7fC39Ec449A",
+      "symbol": "CULT",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F1006326791-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4vvEhKAsLKJtRi6o6WKE%252Ficon%252Fp1aNhaPJklsFLET3pEqk%252Fskully-icon.png%3Falt%3Dmedia%26token%3D4b786e99-22dd-4af7-87e1-73382963d585"
+    },
+    {
+      "name": "EQUAL",
+      "address": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
+      "symbol": "EQUAL",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/equalizer_32.png"
+    },
+    {
+      "name": "POTION",
+      "address": "0x3edA36088b931098e8E472748840b3dF78268c72",
+      "symbol": "POTION",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://magepunks.xyz/assets/images/potion-icon.png"
+    },
+    {
+      "name": "Surveyor DAO",
+      "address": "0x5d9EaFC54567F34164A269Ba6C099068df6ef651",
+      "symbol": "SURV",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/surveyordao_32.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
+    },
+    {
+      "name": "WETH",
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/wETH_32.png"
+    },
+    {
+      "name": "Wrapped Fantom",
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
     },
     {
       "chainId": 42161,
