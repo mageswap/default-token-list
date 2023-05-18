@@ -7945,6 +7945,14 @@
       "logoURI": "https://ftmscan.com/token/images/chillpill_32.png"
     },
     {
+      "name": "Moon Bay",
+      "address": "0xE5a4c0af6F5f7Ab5d6C1D38254bCf4Cc26d688ed",
+      "symbol": "BAY",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://equalizer.exchange/assets/logo/BAY.png"
+    },
+    {
       "name": "CULT",
       "address": "0x4Ed9C2aba77141433c462B8EE835B7fC39Ec449A",
       "symbol": "CULT",
