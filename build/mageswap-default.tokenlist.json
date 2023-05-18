@@ -1,13 +1,13 @@
 {
   "name": "Mageswap Default",
-  "timestamp": "2023-05-18T07:47:59.869Z",
+  "timestamp": "2023-05-18T07:59:40.684Z",
   "version": {
     "major": 9,
     "minor": 5,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
-  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "logoURI": "https://magepunks.xyz/assets/images/potion-icon.png",
   "keywords": [
     "uniswap",
     "default"

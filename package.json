@@ -1,6 +1,6 @@
 {
   "name": "@mageswap/default-token-list",
-  "version": "9.5.1",
+  "version": "9.5.3",
   "description": "The Mageswap default token list",
   "main": "build/mageswap-default.tokenlist.json",
   "scripts": {
