@@ -9,7 +9,7 @@
     "tags": {},
     "logoURI": "https://github.com/lilesper/lilesper.github.io/blob/main/assets/images/IMG_1606.gif?raw=true",
     "keywords": [
-      "uniswap",
+      "mageswap",
       "default"
     ],
     "tokens": [
@@ -46,14 +46,6 @@
         "logoURI": "https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F1006326791-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4vvEhKAsLKJtRi6o6WKE%252Ficon%252Fp1aNhaPJklsFLET3pEqk%252Fskully-icon.png%3Falt%3Dmedia%26token%3D4b786e99-22dd-4af7-87e1-73382963d585"
       },
       {
-        "name": "EQUAL",
-        "address": "0x3Fd3A0c85B70754eFc07aC9Ac0cbBDCe664865A6",
-        "symbol": "EQUAL",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://equalizer.exchange/assets/fantom/token/0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6.png"
-      },
-      {
         "name": "POTION",
         "address": "0x3edA36088b931098e8E472748840b3dF78268c72",
         "symbol": "POTION",
@@ -76,22 +68,6 @@
         "decimals": 6,
         "chainId": 250,
         "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
-      },
-      {
-        "name": "WETH",
-        "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
-        "symbol": "WETH",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://ftmscan.com/token/images/wETH_32.png"
-      },
-      {
-        "name": "Wrapped Fantom",
-        "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-        "symbol": "WFTM",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
-      }      
+      }, 
     ]
   }
