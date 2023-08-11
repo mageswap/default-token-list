@@ -4,7 +4,7 @@
     "version": {
       "major": 0,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     },
     "tags": {},
     "logoURI": "https://github.com/lilesper/lilesper.github.io/blob/main/assets/images/IMG_1606.gif?raw=true",
@@ -51,7 +51,7 @@
         "symbol": "EQUAL",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://ftmscan.com/token/images/equalizer_32.png"
+        "logoURI": "https://equalizer.exchange/assets/fantom/token/0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6.png"
       },
       {
         "name": "POTION",
