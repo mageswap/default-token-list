@@ -2,7 +2,7 @@
     "name": "Mageswap Default",
     "timestamp": "2023-09-18T07:59:40.684Z",
     "version": {
-      "major": 0,
+      "major": 1,
       "minor": 0,
       "patch": 1
     },
@@ -12,15 +12,7 @@
       "mageswap",
       "default"
     ],
-    "tokens": [
-      {
-        "name": "BOO",
-        "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
-        "symbol": "BOO",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://ftmscan.com/token/images/spookyswap-boo_32.png"
-      },
+    "tokens": [      
       {
         "name": "CHILL",
         "address": "0xe47d957F83F8887063150AaF7187411351643392",
