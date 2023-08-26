@@ -1,9 +1,9 @@
 {
     "name": "Mageswap Default",
-    "timestamp": "2023-09-18T07:59:40.684Z",
+    "timestamp": "2023-09-26T07:59:40.684Z",
     "version": {
       "major": 2,
-      "minor": 0,
+      "minor": 1,
       "patch": 1
     },
     "tags": {},
@@ -44,6 +44,15 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F1006326791-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F4vvEhKAsLKJtRi6o6WKE%252Ficon%252Fp1aNhaPJklsFLET3pEqk%252Fskully-icon.png%3Falt%3Dmedia%26token%3D4b786e99-22dd-4af7-87e1-73382963d585"
+      },
+      {
+        "name": "Paintswap Token",
+        "address": "0x85dec8c4B2680793661bCA91a8F129607571863d",
+        "symbol": "BRUSH",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/paintswaptoken_32.png"
+        
       },
       {
         "name": "POTION",
